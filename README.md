@@ -32,9 +32,7 @@ Understand the current EV/Hybrid market in India to identify opportunities and c
 
 ### Insights
 - The data is given from April 1, 2021, to March 1, 2024, covering the fiscal years 2022, 2023, and 2024.
-- The **total number of electric vehicles sold is 2,066,111**.
-   - **2-Wheelers sold total 1,913,168 units**.
-   - **4-Wheelers sold total 152,943 units**.
+- The **total number of electric vehicles sold is 2,066,111**, comprising **1,913,168 two-wheelers and 152,943 four-wheelers**.
 - The compounded annual growth rate (CAGR) is 0.94%. These CAGR indicates growth but slow and steady.
 - The **penetration rate** for EVs in India for the fiscal years 2022, 2023, and 2024 is **3.61%**.
   - These indicates moderate adoption of EV's in India over these years.
@@ -46,20 +44,14 @@ Understand the current EV/Hybrid market in India to identify opportunities and c
     compared to previous years.
   - Karnataka is third with an 11.6% penetration rate, while Maharashtra follows closely with a 10.1% rate. Both states are showing notable adoption of EVs.
   - In contrast, Delhi has the lowest penetration rate at 9.4% in 2024, with minimal growth from 2023 to 2024.
-- There are no states with a continuous decline in penetration rates from 2022 to 2024. While the overall penetration rates have increased in 2024 compared to 2022, some states experienced a decline in sales 
-  between 2022 and 2023, as well as between 2023 and 2024.
 - **For 4-wheelers:**
   - **Q1** and **Q4** exhibit the **highest sales** across all top 5 EV makers, while Q2 and Q3 have the lowest sales in fiscal year 2024. Across all fiscal years, Q1 and Q2 perform better in terms of sales.
   - Tata Motors leads in sales for all quarters, followed by Mahindra & Mahindra, MG Motors, Hyundai, and BYD, which fluctuate in their sales performance.
 - **For 2-wheelers:**
   - Q1 and Q4 consistently show the highest sales across all top 5 EV makers, whereas Q2 and Q3 have the lowest sales in fiscal year 2024. Across all fiscal years, Q1 and Q2 perform better in terms of sales.
-- Karnataka leads with the highest sales at 160,989 units, compared to Delhi's 46,724 units. Karnataka also has a higher penetration rate at 10.18%, while Delhi's rate is 7.71%.
-  - Delhi and Karnataka had similar penetration rates, but Karnataka has recently outpaced Delhi. This shift may be attributed to more aggressive adoption, improved infrastructure, or more effective local 
-    government policies and incentives promoting EV sales.
 - Top 5 States by CAGR
   - BMW leads with the highest CAGR in 4-wheelers, recording an impressive 11.4% from 2022 to 2024.
-  - Volvo follows with a CAGR of 9.7%.
-  - BYD comes next with a CAGR of 5.7%.
+  - Volvo follows with a CAGR of 9.7%. BYD comes next with a CAGR of 5.7%.
   - Hyundai and Mercedes-Benz AG have similar CAGRs at 2.6% and 2.4%, respectively, showing minimal difference between them.
 - The top 10 states by Compound Annual Growth Rate (CAGR)
   - **Meghalaya (0.28), followed by Goa (0.27) and Karnataka (0.25). Delhi has a CAGR of 0.23, with Rajasthan and Gujarat both at 0.21. Assam follows with 0.20, Mizoram at 0.19, and Arunachal Pradesh and the 
