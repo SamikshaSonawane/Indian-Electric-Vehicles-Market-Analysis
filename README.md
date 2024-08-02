@@ -30,7 +30,7 @@ Understand the current EV/Hybrid market in India to identify opportunities and c
    - Standardized state names to match those in the state table (e.g., 'Andaman Nicobar' to 'Andaman Nicobar Island').
 
 
-### Insights
+## Insights
 - The data is given from April 1, 2021, to March 1, 2024, covering the fiscal years 2022, 2023, and 2024.
 - The **total number of electric vehicles sold is 2,066,111**, comprising **1,913,168 two-wheelers and 152,943 four-wheelers**.
 - The compounded annual growth rate (CAGR) is 0.94%. These CAGR indicates growth but slow and steady.
@@ -64,7 +64,12 @@ Understand the current EV/Hybrid market in India to identify opportunities and c
 - **4-Wheelers: Revenue growth is 367.8% from 2022 to 2024, and 83.1% from 2023 to 2024.**
 - Market Share: OLA Electrics leads with 24%, followed by TVS at 13.19%, and ATHER at 10%. Hero, Ampere, and Okinawa each hold around 8%. Other brands like Bajaj collectively hold 7%, while Tata Motors has 4%, 
   and BYD and Mahindra & Mahindra each have 1%.
-  
+- As of 2024, there are a total of 12,000 operational charging stations in India.
+  - Maharashtra leads by a significant margin with 3,079, Delhi is the second highest with 1,886 and Karnataka ranks third with 1,041 operational charging stations.
+  - Arunachal Pradesh has the fewest with 9 charging stations, followed by Nagaland (6), Andaman & Nicobar Island (3), Sikkim (2), 'DNH and DD' and 'Lakshadweep' with each 1.
+ 
+
+## Recommendations
 
    
 
