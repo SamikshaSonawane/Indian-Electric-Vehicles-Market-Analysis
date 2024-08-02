@@ -67,9 +67,24 @@ Understand the current EV/Hybrid market in India to identify opportunities and c
 - As of 2024, there are a total of 12,000 operational charging stations in India.
   - Maharashtra leads by a significant margin with 3,079, Delhi is the second highest with 1,886 and Karnataka ranks third with 1,041 operational charging stations.
   - Arunachal Pradesh has the fewest with 9 charging stations, followed by Nagaland (6), Andaman & Nicobar Island (3), Sikkim (2), 'DNH and DD' and 'Lakshadweep' with each 1.
+- For the fiscal year 2023:
+  - TOP Makers - OLA Electric, Okinawa, and Hero Electric have the highest 2W sales, with 153K, 97K, and 89K units sold, respectively.
+  - Bottom Makers - PURE EV, BEING, and JITENDRA have the lowest 2W sales, with 11.6K, 11.0K, and 8.6K units sold, respectively.
+- For the fiscal year 2024:
+  - OLA Electric, TVS, ATHER have the highest at 322K, 181K and 108K sales for 2W EV’s for the fiscal year 2024.
+  - Kinetic Energy, REVOLT, and BATTRE ELECTRIC have the lowest 2W sales, with 9.6K, 7.3K, and 4.8K units sold, respectively.
  
 
 ## Recommendations
+1. Enhance Product Offerings:
+   - Equip EVs with cutting-edge technology to remain competitive, focusing on enhanced battery life, extended range, and smart features.
+   - Provide a wide range of EVs to cater to various market segments, including affordable two-wheelers for the mass market and premium four-wheelers for high-end consumers.
+2. Leverage Government Initiatives:
+   - Subsidies and Incentives: Take full advantage of government subsidies and incentives to reduce the overall cost of EVs, making them more attractive to consumers.
+   - Partner with local governments to promote EV adoption through public awareness campaigns and joint initiatives.
+3. Expand Charging Infrastructure:
+   - Increase Charging Stations: Invest in establishing more charging stations across India, focusing on states with fewer facilities, such as Arunachal Pradesh, Nagaland, and Andaman & Nicobar Islands.
+   - Form partnerships with local businesses and governments to co-fund and co-develop charging infrastructure.
 
    
 
